@@ -26,7 +26,7 @@ mpremote cp config.json :
 5. Run the program on the raspberry pi pico:
 Mpremote
 
-7. Import temp.py
-8. Close the terminal
+7. Import temp.py.
+8. Close the terminal.
 9. Change the COM port to which your Pico is connected to in main.py, and modify where the message should be sent in the config file.
 10. Run main.py to send the temperature readings.
