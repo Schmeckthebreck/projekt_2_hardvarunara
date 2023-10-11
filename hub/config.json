@@ -1,0 +1,5 @@
+{
+    "name": "rebeckas_temp",
+    "broker": "broker.hivemq.com",
+    "topic": "ela/project"
+}
